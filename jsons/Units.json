@@ -1,0 +1,64 @@
+[
+
+ {
+		"name":"Caravan",
+		"unitType":"Civilian",
+		"movement":3,
+		"cost":250,
+		"hurryCostModifier":10,
+  "requiredResource": "Horses",
+		"requiredTech":"The Wheel",
+  "obsoleteTech": "Industrialization",
+  "uniques":["Can undertake a trade mission with City-State, giving a large sum of gold and [30] Influence"]
+	},
+  {
+		"name":"Mobile Caravan",
+		"unitType":"Civilian",
+		"movement":5,
+		"cost":350,
+		"hurryCostModifier":10,
+  "requiredResource": "Oil",
+		"requiredTech":"Industrialization",
+  "uniques":["Can undertake a trade mission with City-State, giving a large sum of gold and [30] Influence"]
+	},
+ {
+		"name":"Cargo Ship",
+		"unitType":"WaterCivilian",
+		"movement":4,
+		"cost":360,
+		"hurryCostModifier":5,
+  "requiredResource": "Iron",
+  "obsoleteTech": "Steam Power",
+		"requiredTech":"Optics",
+  "uniques":["Can undertake a trade mission with City-State, giving a large sum of gold and [30] Influence"]
+	},
+ {
+		"name":"Container Ship",
+		"unitType":"WaterCivilian",
+		"movement":6,
+		"cost":430,
+		"hurryCostModifier":5,
+  "requiredResource": "Oil",
+		"requiredTech":"Steam Power",
+  "uniques":["Can undertake a trade mission with City-State, giving a large sum of gold and [30] Influence"]
+	},
+	{
+		"name": "Camp Followers",
+		"unitType": "Civilian",
+		"movement":2,
+		"hurryCostModifier": 10,
+		"requiredTech": "Economics",
+		"obsoleteTech": "Railroad",
+		"uniques": ["Can construct [Fort]","Heal adjacent units for an additional 15 HP per turn"],
+		"cost": 130
+	},
+	{
+		"name": "Supplies",
+		"unitType": "Civilian",
+		"movement":3,
+		"hurryCostModifier": 10,
+		"requiredTech": "Railroad",
+		"uniques": ["Heal adjacent units for an additional 15 HP per turn","Can construct [Fort]","Ignores terrain cost"],
+		"cost": 200
+	}
+]

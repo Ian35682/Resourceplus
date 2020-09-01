@@ -1,0 +1,197 @@
+[
+	{
+		"name": "Brewery",
+		"hurryCostModifier": 25,
+		"happiness": 2,
+		"production": -2,
+		"gold": 1,
+		"culture": 3,
+		"food": 2,
+		"cost": 100,
+		"resourceBonusStats": {
+			"food": 1
+		},
+		"requiredNearbyImprovedResources": [
+			"Hops",
+			"Wine"
+		],
+		"uniques": [
+			"+33% great person generation in all cities"
+		],
+		"requiredTech": "Calendar"
+	},
+	{
+		"name": "Teahouse",
+		"hurryCostModifier": 25,
+		"happiness": 3,
+		"gold": 1,
+		"culture": 3,
+		"cost": 100,
+		"resourceBonusStats": {
+			"culture": 1
+		},
+		"requiredNearbyImprovedResources": [
+			"Tea",
+			"Herbs"
+		],
+		"uniques": [
+			"Culture in all cities increased by 25%"
+		],
+		"requiredTech": "Acoustics"
+	},
+	{
+		"name": "Café",
+		"hurryCostModifier": 25,
+		"culture": 2,
+		"science": 2,
+		"gold": 1,
+		"happiness": 1,
+		"cost": 350,
+		"resourceBonusStats": {
+			"gold": 1,
+			"production": 1
+		},
+		"requiredNearbyImprovedResources": [
+			"Coffee",
+			"Tobacco"
+		],
+		"uniques": [
+			"Free Social Policy"
+		],
+		"requiredTech": "Economics"
+	},
+  {
+    "name": "Gemcutter",
+    "cost": "100",
+    "maintenance": 1,
+    "requiredNearbyImprovedResources": [
+      "Gems",
+      "Diamond",
+      "Amber",
+      "Jade"
+    ],
+    "resourceBonusStats": {
+      "gold": 2,
+      "happiness": 1,
+      "culture": 1
+    },
+    "hurryCostModifier": 20,
+    "requiredTech": "Machinery"
+  },
+  {
+    "name": "Textile Mill",
+    "cost": "300",
+    "maintenance": 1,
+    "requiredNearbyImprovedResources": [
+      "Cotton",
+      "Silk",
+      "Furs",
+      "Dyes"
+    ],
+    "resourceBonusStats": {
+      "production": 2
+    },
+    "hurryCostModifier": 20,
+    "requiredTech": "Guilds"
+  },
+  {
+    "name": "Clothing Store",
+    "cost": "300",
+    "maintenance": 2,
+    "requiredNearbyImprovedResources": [
+      "Cotton",
+      "Silk",
+      "Furs",
+      "Dyes"
+    ],
+    "resourceBonusStats": {
+      "culture": 1,
+      "happiness": 1
+    },
+    "hurryCostModifier": 20,
+    "requiredBuilding": "Textile Mill",
+    "requiredTech": "Economics"
+  },
+	{
+		"name": "EIC Colony",
+		"hurryCostModifier": 20,
+		"food": -1,
+		"gold": 3,
+		"cost": 350,
+		"resourceBonusStats": {
+			"gold": 1
+		},
+		"requiredNearbyImprovedResources": [
+			"Cocoa",
+			"Coffee",
+			"Sugar",
+			"Rubber",
+			"Citrus",
+			"Olives",
+			"Spices "
+		],
+		"uniques": [ "[+1 Gold] from each Trade Route"	],
+		"requiredTech": "Navigation"
+	},
+	{
+		"name": "Liquor",
+		"hurryCostModifier": 25,
+		"happiness": 3,
+		"gold": 1,
+		"production": 3,
+		"cost": 300,
+		"resourceBonusStats": {
+			"gold": 2
+		},
+		"requiredNearbyImprovedResources": [
+			"Potato",
+			"Barley",
+			"Rice",
+			"Wheat"
+		],
+		"requiredBuilding": "Brewery",
+		"uniques": ["+15% combat strength for units fighting in friendly territory"
+			],
+		"requiredTech": "Chemistry"
+	},
+	{
+		"name": "Hunt House",
+		"hurryCostModifier": 25,
+		"food": 3,
+		"production": 1,
+		"cost": 100,
+		"requiredNearbyImprovedResources": [
+			
+			"Fur",
+			"Deer"
+		],
+		"resourceBonusStats": {
+			"food": 1
+		},
+		"uniques": [
+			"Must be next to [Tundra]"],
+		"requiredTech": "Trapping"
+	},
+	{
+		"name": "Water Well",
+		"hurryCostModifier": 25,
+		"food": 3,
+		"production": 1,
+		"cost": 100,
+		"resourceBonusStats": {
+			"food": 1
+		},
+		"uniques": [
+			"Must be next to [Desert]","[+2 Food] from [Oasis] tiles in this city"],
+		"requiredTech": "Mathematics"
+	},
+	{
+		"name": "Advanced Port",
+		"hurryCostModifier": 25,
+		"maintenance": 2,
+		"cost": 100,
+		"requiredBuilding": "Lighthouse",
+		"uniques": ["[+3 Production, +3 Gold] from [Bay] tiles in this city","Can only be built in coastal cities"],
+		"requiredTech": "Compass"
+	}
+    ]

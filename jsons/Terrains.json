@@ -1,0 +1,8 @@
+[{
+		"name": "Bay",
+		"type": "TerrainFeature",
+		"movementCost": 1,
+		"food": 1,
+		"occursOn": ["Coast"]
+	}
+    ]

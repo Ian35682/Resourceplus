@@ -1,0 +1,44 @@
+[
+	{
+		"name": "Hop Garden",
+		"turnsToBuild": 7,
+		"gold": 1,
+		"production": 1,
+		"techRequired": "Calendar",
+		"improvingTech": "Fertilizer",
+		"improvingTechStats": {
+			"gold": 1,
+			"production": 1
+		}
+	},
+	{
+		"name": "Trading Outpost",
+		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Tundra"],
+		"food": 1,
+		"turnsToBuild": 7,
+		"techRequired": "Guilds",
+		"improvingTech": "Economics",
+		"improvingTechStats": {"gold": 1},
+	    "uniques": ["[+2 Gold] for each adjacent [Road]","[+1 Culture] for each adjacent [Road]"]
+	},
+	{
+		"name": "Trading Settlement",
+		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Tundra"],
+		"gold": 1,
+		"turnsToBuild": 7,
+		"techRequired": "Construction",
+		"improvingTech": "Fertilizer",
+		"improvingTechStats": {"food": 1},
+	    "uniques": ["[+1 Production] for each adjacent [Road]","[+2 Food] for each adjacent [Road]"]
+	},
+	{
+		"name": "Port",
+		"terrainsCanBeBuiltOn": ["Coast"],
+		"resourceTerrainAllow": ["Bay"],
+		"food": 1,
+		"techRequired": "Sailing",
+		"improvingTech": "Compass",
+		"improvingTechStats": {"gold": 1},
+		"uniques": ["+[15]% production when building [naval units] in this city","Gives a defensive bonus of [50]%"]
+	}
+]
