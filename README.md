@@ -1,4 +1,4 @@
-# Unciv-Mod-Resources-
+# Resources plus
 Unciv Mod / Resources +
 
 Hello there 
