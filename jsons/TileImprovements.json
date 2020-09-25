@@ -27,7 +27,7 @@
 		"techRequired": "Construction",
 		"improvingTech": "Fertilizer",
 		"improvingTechStats": {"food": 1},
-	    "uniques": ["[+1 Production] for each adjacent [Road]","[+1 Food] for each adjacent [Road]"]
+	        "uniques": ["[+1 Production] for each adjacent [Railroad]","[+1 Food] for each adjacent [Road]","[+1 Food] for each adjacent [Railroad]"]
 	},
 	{
 		"name": "Port",
