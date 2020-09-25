@@ -98,12 +98,6 @@
     "name": "Clothing Store",
     "cost": "300",
     "maintenance": 2,
-    "requiredNearbyImprovedResources": [
-      "Cotton",
-      "Silk",
-      "Furs",
-      "Dyes"
-    ],
     "resourceBonusStats": {
       "culture": 1,
       "happiness": 1
@@ -143,12 +137,6 @@
 		"resourceBonusStats": {
 			"gold": 2
 		},
-		"requiredNearbyImprovedResources": [
-			"Potato",
-			"Barley",
-			"Rice",
-			"Wheat"
-		],
 		"requiredBuilding": "Brewery",
 		"uniques": ["+15% combat strength for units fighting in friendly territory"
 			],
@@ -169,7 +157,7 @@
 			"food": 1
 		},
 		"uniques": [
-			"Must be next to [Tundra]"],
+			"Must be next to [Tundra]","[20]% of food is carried over after population increases"],
 		"requiredTech": "Trapping"
 	},
 	{
@@ -191,7 +179,21 @@
 		"maintenance": 2,
 		"cost": 100,
 		"requiredBuilding": "Lighthouse",
-		"uniques": ["[+3 Production, +3 Gold] from [Bay] tiles in this city","Can only be built in coastal cities"],
+		"uniques": ["Must have an owned [Bay] within [2] tiles","Can only be built in coastal cities","+[30]% production when building [naval units] in this city"],
 		"requiredTech": "Compass"
-	}
-    ]
+	},
+	{
+    "name": "Oil Refinery",
+    "cost": "450",
+    "maintenance": 2,
+    "production": 3
+    "requiredNearbyImprovedResources": [
+      "Oil"
+    ],
+    "resourceBonusStats": {
+      "gold": 3,
+    },
+    "hurryCostModifier": 20,
+    "requiredTech": "Biology"
+  }
+]
