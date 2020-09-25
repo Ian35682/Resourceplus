@@ -3,6 +3,8 @@
 		"type": "TerrainFeature",
 		"movementCost": 1,
 		"food": 1,
+	        "defenceBonus": 0.25,
 		"occursOn": ["Coast"]
+		"uniques": ["Rare feature"]
 	}
     ]
