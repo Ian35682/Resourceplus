@@ -1,0 +1,789 @@
+
+game.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/Brewery
+  rotate: false
+  xy: 2, 145
+  size: 603, 603
+  orig: 603, 603
+  offset: 0, 0
+  index: -1
+BuildingIcons/Teahouse
+  rotate: false
+  xy: 607, 2
+  size: 572, 572
+  orig: 572, 572
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Hop Garden
+  rotate: false
+  xy: 1004, 576
+  size: 572, 572
+  orig: 572, 572
+  offset: 0, 0
+  index: -1
+ResourceIcons/Hops
+  rotate: false
+  xy: 1181, 13
+  size: 561, 561
+  orig: 561, 561
+  offset: 0, 0
+  index: -1
+UnitIcons/Camp Followers
+  rotate: false
+  xy: 1004, 1150
+  size: 600, 600
+  orig: 600, 600
+  offset: 0, 0
+  index: -1
+UnitIcons/Supplies
+  rotate: false
+  xy: 2, 750
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
+
+game2.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/Advanced Port
+  rotate: false
+  xy: 2, 118
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Café
+  rotate: false
+  xy: 2, 1124
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+BuildingIcons/Camel Stable
+  rotate: false
+  xy: 1208, 1034
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Canal
+  rotate: false
+  xy: 204, 118
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Clothing Store
+  rotate: false
+  xy: 516, 1638
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+BuildingIcons/Commercial District
+  rotate: false
+  xy: 406, 118
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Construction District
+  rotate: false
+  xy: 1722, 1636
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Culture District
+  rotate: false
+  xy: 1008, 430
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Desert Trading Center
+  rotate: false
+  xy: 1410, 1034
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/EIC Colony
+  rotate: false
+  xy: 810, 228
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Gemcutter
+  rotate: false
+  xy: 404, 1124
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+BuildingIcons/Habor District
+  rotate: false
+  xy: 810, 26
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Port
+  rotate: false
+  xy: 810, 26
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Hunt House
+  rotate: false
+  xy: 1012, 26
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Liquor
+  rotate: false
+  xy: 2, 1526
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+BuildingIcons/Military District
+  rotate: false
+  xy: 1814, 1232
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Oil Refinery
+  rotate: false
+  xy: 1210, 832
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Science District
+  rotate: false
+  xy: 1614, 828
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Textile Mill
+  rotate: false
+  xy: 1208, 1236
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+BuildingIcons/Water Well
+  rotate: false
+  xy: 1214, 424
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Trading Outpost
+  rotate: false
+  xy: 1412, 626
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Trading Settlement
+  rotate: false
+  xy: 1614, 626
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ResourceIcons/Amber
+  rotate: false
+  xy: 1722, 1838
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ResourceIcons/Camel
+  rotate: false
+  xy: 806, 632
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ResourceIcons/Cod
+  rotate: false
+  xy: 806, 430
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ResourceIcons/Coffee
+  rotate: false
+  xy: 2, 722
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+ResourceIcons/Coral
+  rotate: false
+  xy: 918, 1638
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+ResourceIcons/Corn
+  rotate: false
+  xy: 2, 320
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+ResourceIcons/Diamond
+  rotate: false
+  xy: 608, 118
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ResourceIcons/Flax
+  rotate: false
+  xy: 1320, 1638
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+ResourceIcons/Gypsum
+  rotate: false
+  xy: 1012, 228
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ResourceIcons/Herbs
+  rotate: false
+  xy: 516, 1536
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Jade
+  rotate: false
+  xy: 1610, 1434
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ResourceIcons/Lotus
+  rotate: false
+  xy: 1812, 1434
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ResourceIcons/Mercury
+  rotate: false
+  xy: 1612, 1232
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ResourceIcons/Oak
+  rotate: false
+  xy: 1814, 1030
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ResourceIcons/Olives
+  rotate: false
+  xy: 1210, 630
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ResourceIcons/Pine
+  rotate: false
+  xy: 1412, 828
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ResourceIcons/Potato
+  rotate: false
+  xy: 404, 722
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+ResourceIcons/Rice
+  rotate: false
+  xy: 404, 320
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+ResourceIcons/Rubber
+  rotate: false
+  xy: 806, 1236
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+ResourceIcons/Taro
+  rotate: false
+  xy: 806, 834
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+ResourceIcons/Tea
+  rotate: false
+  xy: 2, 32
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+ResourceIcons/Tobacco
+  rotate: false
+  xy: 1816, 828
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ResourceIcons/Turtle
+  rotate: false
+  xy: 1816, 626
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Amber
+  rotate: false
+  xy: 1924, 2010
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Amber+Fishing Boats
+  rotate: false
+  xy: 2014, 2010
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Bananas+Plantation
+  rotate: false
+  xy: 1214, 394
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Camel
+  rotate: false
+  xy: 1416, 596
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Camel+Pasture
+  rotate: false
+  xy: 618, 1604
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Citrus+Plantation
+  rotate: false
+  xy: 88, 88
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Hop Garden
+  rotate: false
+  xy: 88, 88
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Coast+Bay
+  rotate: false
+  xy: 1924, 1980
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Coast+Bay+Port
+  rotate: false
+  xy: 2014, 1980
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Cod
+  rotate: false
+  xy: 1958, 2010
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Coffee
+  rotate: false
+  xy: 1214, 364
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Coffee+Plantation
+  rotate: false
+  xy: 1248, 394
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Coral
+  rotate: false
+  xy: 1450, 596
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Corn
+  rotate: false
+  xy: 618, 1574
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Cotton+Plantation
+  rotate: false
+  xy: 652, 1608
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Desert+Derest Hill+Trading Outpost
+  rotate: false
+  xy: 88, 55
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Desert+Desert Hill+Camel
+  rotate: false
+  xy: 122, 85
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Desert+Desert Hill+Trading Settlement
+  rotate: false
+  xy: 1924, 1947
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Desert+Trading Outpost
+  rotate: false
+  xy: 36, 2
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Desert+Trading Settlement
+  rotate: false
+  xy: 2014, 1950
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Diamond
+  rotate: false
+  xy: 1958, 1980
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Flax
+  rotate: false
+  xy: 1214, 334
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Flax+Plantation
+  rotate: false
+  xy: 1248, 364
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Gypsum
+  rotate: false
+  xy: 1282, 394
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Herbs
+  rotate: false
+  xy: 1416, 532
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Hops
+  rotate: false
+  xy: 1450, 566
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Jade
+  rotate: false
+  xy: 1484, 596
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Lotus
+  rotate: false
+  xy: 618, 1544
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Mercury
+  rotate: false
+  xy: 652, 1578
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Oak
+  rotate: false
+  xy: 122, 55
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Olives
+  rotate: false
+  xy: 156, 88
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Olives+Plantation
+  rotate: false
+  xy: 1924, 1917
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Pine
+  rotate: false
+  xy: 2014, 1920
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Potato
+  rotate: false
+  xy: 1958, 1950
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Quarry+Diamond
+  rotate: false
+  xy: 1214, 304
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Quarry+Gypsum
+  rotate: false
+  xy: 1248, 334
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Quarry+Jade
+  rotate: false
+  xy: 1282, 364
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Quarry+Mercury
+  rotate: false
+  xy: 1316, 394
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Rice
+  rotate: false
+  xy: 1416, 502
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Rubber
+  rotate: false
+  xy: 1450, 536
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Rubber+Plantation
+  rotate: false
+  xy: 1484, 566
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Snow+Trading Outpost
+  rotate: false
+  xy: 1518, 596
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Snow+Trading Settlement
+  rotate: false
+  xy: 652, 1548
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Taro
+  rotate: false
+  xy: 720, 1608
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Tea
+  rotate: false
+  xy: 156, 58
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Tea+Plantation
+  rotate: false
+  xy: 190, 88
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Tobacco
+  rotate: false
+  xy: 1924, 1887
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Tobacco+Plantation
+  rotate: false
+  xy: 2014, 1890
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Trading Outpost
+  rotate: false
+  xy: 1958, 1920
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Trading Settlement
+  rotate: false
+  xy: 1214, 274
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Tundra+Trading Outpost
+  rotate: false
+  xy: 1248, 304
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Tundra+Trading Settlement
+  rotate: false
+  xy: 1282, 334
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Turtle
+  rotate: false
+  xy: 1316, 364
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Turtle+Fishing Boats
+  rotate: false
+  xy: 1350, 394
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Camp Followers
+  rotate: false
+  xy: 2, 2
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Container Ship
+  rotate: false
+  xy: 1416, 566
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Mobile Caravan
+  rotate: false
+  xy: 686, 1608
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Supplies
+  rotate: false
+  xy: 686, 1578
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+UnitIcons/Container Ship
+  rotate: false
+  xy: 1008, 632
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Mobile Caravan
+  rotate: false
+  xy: 1612, 1030
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
