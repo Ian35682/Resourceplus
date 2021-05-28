@@ -1,19 +1,10 @@
 [
- {
-		"name": "Lotus",
-		"resourceType": "Luxury",
-		"terrainsCanBeFoundOn": ["Lakes"],
-		"food": 2,
-  "culture":1,
-		"improvement": "Fishing Boats",
-		"improvementStats": {"gold": 1,"food": 1}
-	},
 	{
 		"name": "Diamond",
 		"resourceType": "Luxury",
 		"terrainsCanBeFoundOn": ["Desert","Tundra","Hill"],
 		"gold": 3,
-		"improvement": "Mine",
+		"improvement": "Quarry",
 		"improvementStats": {"gold": 2}
 	},
  {"name": "Coral",
@@ -24,19 +15,18 @@
 		"improvement": "Fishing Boats",
 		"improvementStats": {"gold": 1}
  },
- {"name": "Amber",
-		"resourceType": "Luxury",
+ {"name": "Cod",
+		"resourceType": "Bonus",
 		"terrainsCanBeFoundOn": ["Coast"],
-		"production": 1,
-  "gold": 2,
+		"gold": 1,
+                        "food": 2,
 		"improvement": "Fishing Boats",
-		"improvementStats": {"gold": 1}
+		"improvementStats": {"food": 1}
  },
  {
-		"name": "Cedar",
+		"name": "Pine",
 		"resourceType": "Bonus",
-		"terrainsCanBeFoundOn": ["Hill"],
-		"happiness": 2,
+		"terrainsCanBeFoundOn": ["Plains"],
 		"production": 2,
 		"improvement": "Lumber mill",
 		"improvementStats": {"production": 1}
@@ -51,34 +41,35 @@
 	},
 	{
 		"name": "Gypsum",
-		"resourceType": "Luxury",
+		"resourceType": "Bonus",
 		"terrainsCanBeFoundOn": ["Plains","Hill"],
-		"gold": 1,
+		"food": 1,
 		"production": 1,
-		"improvement": "Mine",
-		"improvementStats": {"gold": 1}
+		"improvement": "Quarry",
+		"improvementStats": {"production": 1}
 	},
  {"name": "Mercury",
 		"resourceType": "Luxury",
 		"terrainsCanBeFoundOn": ["Hill","Desert"],
 		"science": 2,
-		"improvement": "Mine",
+		"improvement": "Quarry",
 		"improvementStats": {"culture": 1}
  },
  {"name": "Olives",
 		"resourceType": "Luxury",
 		"terrainsCanBeFoundOn": ["Forest","Grassland"],
 		"gold": 1,
-  "culture":1,
+  "food":1,
 		"improvement": "Plantation",
-		"improvementStats": {"culture": 1}
+		"improvementStats": {"gold": 1}
  },
  {"name": "Jade",
 		"resourceType": "Luxury",
 		"terrainsCanBeFoundOn": ["Forest","Grassland","Tundra"],
-		"production": 2,
-		"improvement": "Mine",
-		"improvementStats": {"production": 1}
+		"production": 1,
+                        "gold": 1,
+		"improvement": "Quarry",
+		"improvementStats": {"gold": 1}
  },
  {"name": "Tobacco",
 		"resourceType": "Luxury",
@@ -171,9 +162,8 @@
 		"improvementStats": {
 			"gold": 1,
 			"happiness": 1
+		}
 		},
-		"building": "Brewery"
-	},
 	{
 		"name": "Tea",
 		"resourceType": "Luxury",
@@ -186,9 +176,8 @@
 		"improvementStats": {
 			"gold": 1,
 			"culture": 1
+		}
 		},
-		"building": "Teahouse"
-	},
 	{
 		"name": "Coffee",
 		"resourceType": "Luxury",
@@ -202,7 +191,16 @@
 		"improvementStats": {
 			"gold": 1,
 			"production": 1
+		}
 		},
-		"building": "Café"
-	}
+{
+		"name": "Camel",
+		"resourceType": "Bonus",
+		"revealedBy": "Animal Husbandry",
+		"terrainsCanBeFoundOn": ["Desert","Desert Hill"],
+		"production": 1,
+"gold": 1,
+		"improvement": "Pasture",
+		"improvementStats": {"production": 1}
+}
  ]

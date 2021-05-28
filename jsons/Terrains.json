@@ -4,7 +4,7 @@
 		"movementCost": 1,
 		"food": 1,
 	        "defenceBonus": 0.25,
-		"occursOn": ["Coast"]
+		"occursOn": ["Coast"],
 		"uniques": ["Rare feature"]
 	}
     ]

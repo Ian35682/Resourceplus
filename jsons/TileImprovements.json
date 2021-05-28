@@ -13,9 +13,9 @@
 	},
 	{
 		"name": "Trading Outpost",
-		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Tundra"],
+		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Tundra"],
 		"turnsToBuild": 7,
-		"gold": -2,
+		"gold": -1,
 		"techRequired": "Guilds",
 		"improvingTech": "Economics",
 		"improvingTechStats": {"gold": 1},
@@ -23,9 +23,9 @@
 	},
 	{
 		"name": "Trading Settlement",
-		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Tundra"],
+		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Tundra"],
 		"turnsToBuild": 7,
-		"gold": -2,
+		"gold": -1,
 		"techRequired": "Construction",
 		"improvingTech": "Fertilizer",
 		"improvingTechStats": {"food": 1},

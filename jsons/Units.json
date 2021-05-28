@@ -1,47 +1,5 @@
 [
 
- {
-		"name":"Caravan",
-		"unitType":"Civilian",
-		"movement":3,
-		"cost":250,
-		"hurryCostModifier":10,
-  "requiredResource": "Horses",
-		"requiredTech":"The Wheel",
-  "obsoleteTech": "Industrialization",
-  "uniques":["Can undertake a trade mission with City-State, giving a large sum of gold and [30] Influence"]
-	},
-  {
-		"name":"Mobile Caravan",
-		"unitType":"Civilian",
-		"movement":5,
-		"cost":350,
-		"hurryCostModifier":10,
-  "requiredResource": "Oil",
-		"requiredTech":"Industrialization",
-  "uniques":["Can undertake a trade mission with City-State, giving a large sum of gold and [30] Influence"]
-	},
- {
-		"name":"Cargo Ship",
-		"unitType":"WaterCivilian",
-		"movement":4,
-		"cost":360,
-		"hurryCostModifier":5,
-  "requiredResource": "Iron",
-  "obsoleteTech": "Steam Power",
-		"requiredTech":"Optics",
-  "uniques":["Can undertake a trade mission with City-State, giving a large sum of gold and [30] Influence"]
-	},
- {
-		"name":"Container Ship",
-		"unitType":"WaterCivilian",
-		"movement":6,
-		"cost":430,
-		"hurryCostModifier":5,
-  "requiredResource": "Oil",
-		"requiredTech":"Steam Power",
-  "uniques":["Can undertake a trade mission with City-State, giving a large sum of gold and [30] Influence"]
-	},
 	{
 		"name": "Camp Followers",
 		"unitType": "Civilian",
