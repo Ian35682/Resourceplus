@@ -197,7 +197,7 @@
 		"name": "Camel",
 		"resourceType": "Bonus",
 		"revealedBy": "Animal Husbandry",
-		"terrainsCanBeFoundOn": ["Desert","Desert Hill"],
+		"terrainsCanBeFoundOn": ["Desert"],
 		"production": 1,
 "gold": 1,
 		"improvement": "Pasture",
