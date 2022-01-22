@@ -138,7 +138,7 @@
 			"gold": 2
 		},
 		"requiredBuilding": "Brewery",
-		"uniques": ["Unhappiness from population decreased by [5]%"],
+		"uniques": ["[15]% unhappiness from population [in this city]"],
 		"requiredTech": "Chemistry"
 	},
 	{
@@ -184,7 +184,7 @@
 "Camel"],
 		"uniques": [
 			"Must be next to [Desert]","[+3 Food] from [Land Trade Route (Food)] tiles in this city",
-        	"[+3 Gold] from [Land Trade Route (Gold)] tiles in this city","Provides [1] [Trade Route]"
+        	"[+3 Gold] from [Land Trade Route (Gold)] tiles in this city"
 ],
 		"requiredTech": "Mathematics"
 	},
@@ -195,7 +195,7 @@
 		"maintenance": 2,
 		"cost": 100,
 		"requiredBuilding": "Lighthouse",
-		"uniques": ["Must have an owned [Bay] within [2] tiles","Can only be built in coastal cities","+[30]% Production when constructing [Water] units [in this city]"],
+		"uniques": ["Must have an owned [Bay] within [2] tiles","Can only be built in coastal cities","[30]% Production when constructing [Water] units [in this city]"],
 		"requiredTech": "Compass"
 	},
 	{
@@ -252,7 +252,7 @@
         "cost": 75,
         "requiredNearbyImprovedResources": ["Camel"],
         "hurryCostModifier": 25,
-        "uniques": ["+[15]% Production when constructing [Mounted] units [in this city]",
+        "uniques": ["[15]% Production when constructing [Mounted] units [in this city]",
         	"[+1 Production] from [Camel] tiles in this city","Must be next to [Desert]","All newly-trained [Mounted] units in this city receive the [Desert Warrior] promotion]"],
 "cannotBeBuiltWith":  "Stable",
         "requiredTech": "Horseback Riding"
