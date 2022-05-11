@@ -7,7 +7,7 @@
 		"hurryCostModifier": 10,
 		"requiredTech": "Economics",
 		"obsoleteTech": "Railroads",
-		"uniques": ["Can build [Fort] improvements on tiles","Heal adjacent units for an additional 15 HP per turn"],
+		"uniques": ["Can build [Fort] improvements on tiles", "All adjacent units heal [10] HP when healing"],
 		"cost": 130
 	},
 	{
@@ -16,7 +16,7 @@
 		"movement":3,
 		"hurryCostModifier": 10,
 		"requiredTech": "Railroads",
-		"uniques": ["Heal adjacent units for an additional 15 HP per turn","Can build [Fort] improvements on tiles","Ignores terrain cost"],
+		"uniques": [ "All adjacent units heal [20] HP when healing","Can build [Fort] improvements on tiles","Ignores terrain cost"],
 		"cost": 200
 	}
 ]
