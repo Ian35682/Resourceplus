@@ -156,7 +156,7 @@
 			"food": 1
 		},
 		"uniques": [
-			"Must be next to [Tundra]","[20]% of food is carried over after population increases","[+2 Food] from [Trading Settlement] tiles in this city"],
+			"Must be next to [Tundra]","[20]% Food is carried over after population increases [in this city]","[+2 Food] from [Trading Settlement] tiles in this city"],
 		"requiredTech": "Trapping"
 	},
 	{
@@ -169,7 +169,7 @@
 			"food": 1
 		},
 		"uniques": [
-			"Must be next to [Desert]","[+2 Food] from [Oasis] tiles in this city","[20]% of food is carried over after population increases"],
+			"Must be next to [Desert]","[+2 Food] from [Oasis] tiles in this city","[20]% Food is carried over after population increases [in this city]"],
 		"requiredTech": "Mathematics"
 	},
         {"name": "Desert Trading Center",
