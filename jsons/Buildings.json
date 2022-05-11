@@ -34,7 +34,7 @@
 			"Herbs"
 		],
 		"uniques": [
-		"+[50]% [Culture] [in this city]"
+		"[+50]% [Culture] [in this city]"
 		],
 		"requiredTech": "Acoustics"
 	},
