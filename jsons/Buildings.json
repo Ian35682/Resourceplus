@@ -138,7 +138,7 @@
 			"gold": 2
 		},
 		"requiredBuilding": "Brewery",
-		"uniques": ["[15]% unhappiness from population [in this city]"],
+		"uniques": ["[-15]% unhappiness from population [in this city]"],
 		"requiredTech": "Chemistry"
 	},
 	{
