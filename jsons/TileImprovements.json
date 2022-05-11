@@ -6,6 +6,7 @@
 		"production": 1,
 		"techRequired": "Calendar",
 		"improvingTech": "Fertilizer",
+		"uniques": ["[+1 Food] <after discovering [Fertilizer]>", "Can only be built to improve a resource"]
 		"improvingTechStats": {
 			"gold": 1,
 			"production": 1
