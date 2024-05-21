@@ -12,7 +12,8 @@
 		},
 		"requiredNearbyImprovedResources": [
 			"Hops",
-			"Wine"
+			"Wine",
+			"wheat"
 		],
 		"uniques": [
 			"Provides [2] [Wine]"
