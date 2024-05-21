@@ -16,6 +16,7 @@
 		],
 		"uniques": [
 			"Provides [2] [Wine]"
+			"Provides [1] [Beer]
 		],
 		"requiredTech": "Calendar"
 	},
