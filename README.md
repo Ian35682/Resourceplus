@@ -3,9 +3,9 @@ Unciv Mod / Resources +
 
 Hello there 
 This is my first mod
-It contained several sea, bonus,luxury resources with texture. Also buildings unique to resources and land tiles. 
+It contained several sea, bonus, luxury resources with texture. Also buildings unique to resources and land tiles. 
 
-It is capable with 3.10+ and Civ5expansion mod. 
+It is capable with 4.13+. 
 
 I borrowed some code and image from @Gdansk and @Cavenir. Big thanks to them.
 
