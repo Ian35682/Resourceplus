@@ -89,6 +89,7 @@
 		"food": -2,
 		"gold": 3,
 		"cost": 350,
+		"happiness": -3,
 		"requiredNearbyImprovedResources": [
 			"Cocoa",
 			"Coffee",
@@ -100,7 +101,7 @@
 		],
 		"uniques": [ "[+1 Gold] from each Trade Route",
 		"Provides 1 extra copy of each improved luxury resource near this City",
-		"Cost increases by [50] per owned city"	],
+		"Cost increases by [200] per owned city"	],
 		"requiredTech": "Navigation"
 	},
 	{
