@@ -1,0 +1,110 @@
+﻿
+#################### Lines from Buildings.json ####################
+
+Brewery = Tempat Pembuatan Bir
++33% great person generation in all cities = +33% generasi orang hebat di semua kota
+Can only be built in coastal cities = Hanya dapat dibangun di kota pesisir
+
+Teahouse = Rumah Teh
+Culture in all cities increased by 25% = Budaya di semua meningkat sebesar 25%
+
+Café = Каfe
+Free Social Policy = Kebijakan Sosial Gratis
+
+Gemcutter = Pemotong Permata
+
+Textile Mill = Pabrik Tekstil
+
+Clothing Store = Toko Baju
+
+EIC Colony = Koloni PHT
+
+Liquor = Minuman Keras
+
+Hunt House = Rumah Perburuan
+
+Water Well = Sumur Air
+
+Advanced Port = Pelabuhan Lanjutan
+
+
+#################### Lines from Terrains.json ####################
+
+Bay = Teluk
+
+
+#################### Lines from TileImprovements.json ####################
+
+Hop Garden = Kebun Hop
+
+Trading Outpost = Pos Terdepan Perdagangan
+
+Trading Settlement = Permukiman Perdagangan
+
+Port = Pelabuhan
+
+
+#################### Lines from TileResources.json ####################
+
+Lotus = Seroja
+
+Diamond = Berlian
+
+Coral = Koral
+
+Amber = Ambar
+
+Cedar = Aras
+
+Oak = Pohon Pasang
+
+Gypsum = Gipsum
+
+Mercury = Raksa
+
+Olives = Zaitun
+
+Jade = Giok
+
+Tobacco = Tembakau
+
+Turtle = Penyu
+
+Herbs = Herba
+
+Taro = Taro
+
+Rice = Padi
+
+Potato = Kentang
+
+Corn = Jagung
+
+Flax = Flaks
+
+Rubber = Karet
+
+Hops = Hop
+
+Tea = Teh
+
+Coffee = Kopi
+
+Fur = Bulu
+
+Barley = Barli
+
+
+#################### Lines from Units.json ####################
+
+Caravan = Каravan
+
+Mobile Caravan = Karavan Berjalan
+
+Cargo Ship = Kapal Kargo
+
+Container Ship = Kapal Pengangkut
+
+Camp Followers = Pengikut Perkemahan
+
+Supplies = Pasokan
